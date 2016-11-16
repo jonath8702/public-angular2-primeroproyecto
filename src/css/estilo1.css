@@ -1,0 +1,97 @@
+#estilodiv{
+    
+  
+    background: rgb(0,0,0);
+    background: rgba(0,0,0,0.5)
+}
+
+#estilodiv2{
+    
+  
+    background: rgb(0,0,0);
+    background: rgba(100,0,0,0.5)
+}
+
+.login1{
+
+  height: 110px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+.login2{
+   
+  width: 500px;
+  
+   background: rgba(0,0,0,0.5)
+   
+   
+}
+
+.login21{
+   
+  width: 700px;
+  
+   background: rgba(0,0,0,0.5)
+   
+   
+}
+
+.parrafo{
+   
+  width:800px;
+  
+font-size: 16px;
+   
+     text-align: center;
+  font-family: Arial;
+  text-shadow: #ccc;
+	
+color: #fff;
+   
+   
+      background: rgba(0,0,0,0.5)
+}
+
+
+#div {
+  border-top-width: 10px;
+  border-right-width: 1em;
+  border-bottom-width: thick;
+  border-left-width: thin;
+}
+
+#body1{
+    background-image:url(../img/bg.jpg);
+	background-repeat: no-repeat;
+background-attachment: fixed
+	
+}
+
+#body2{
+    background-image:url(../img/fondo2.jpeg);
+	
+	background-repeat: no-repeat;
+background-attachment: fixed
+	
+}
+
+.boton{
+
+ text-align:right;
+}
+
+
+.texto{
+ height: 110px;
+font-size: 34px;
+  text-align: center;
+  font-family: Arial;
+  text-shadow: #ccc;
+	
+color: #fff;
+line-height: 1.8;
+	}
